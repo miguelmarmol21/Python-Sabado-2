@@ -21,5 +21,5 @@ Proyecto que buscar mostrar ejemplos de logica con concionales, ciclos y estruct
 
 ### Enlaces Relacionados
 
-[Pagina aliada](http://www.facebook.com)
+[Pagina aliada](http://www.google.com)
 
